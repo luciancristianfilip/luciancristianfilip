@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucian Cristian Filip
+- 👀 I’m interested in developing scalable Java applications, using clean code principles. 
+- 🌱 I’m currently learning about microservices and how to apply this concept.
